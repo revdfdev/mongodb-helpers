@@ -1,4 +1,4 @@
-# github.com/revdfdev/mongodb-helpers
+# mongodb-helpers
 
 ## Usage
 
