@@ -13,7 +13,7 @@ go mod init example.com/my-awesome-project
 Note that you need to include the **v** in the version tag.
 
 ```
-go get github.com/revdfdev/mongodb-helpers@v0.1.0
+go get github.com/revdfdev/mongodb-helpers@v0.1.2
 ```
 
 ```go
