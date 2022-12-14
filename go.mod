@@ -1,4 +1,4 @@
-module github.com/revdfev/mongodb-helpers
+module github.com/revdfdev/mongodb-helpers
 
 go 1.18
 
