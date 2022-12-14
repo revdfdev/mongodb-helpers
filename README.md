@@ -27,7 +27,7 @@ import (
 
 func main() {
     uri := os.GetEnv("MONGODB_URI")
-    db, err := database.NewDatabaseConnection()
+    db, err := database.NewDatabaseConnection(uri)
 
  if err != nil {
   panic(err)
